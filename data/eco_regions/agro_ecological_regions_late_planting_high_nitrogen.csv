@@ -1,0 +1,8 @@
+id,AEZ,Tillage date,Sowing date,Harvest date,Planting density,N 1st application (kg/ha),N 1st date,N 2nd application (kg/ha),N 2nd date,N 3rd application (kg/ha),N 3rd date,Maize seed variety
+1,Guinea Savannah,02-Jun,04-Jun,08-Oct,0.355,39.4,04-Jun,39.4,25-Jun,39.4,16-Jul,SAMMAZ 15 (IWDC2Syn-F2-W
+2,Sudan Savannah,25-Jun,27-Jun,23-Oct,0.35,45.5,27-Jun,45.5,18-Jul,45.5,09-Aug,SAMMAZ 27 (EV 99DT-W-STR
+3,Rain forest,30-Apr,02-May,02-Sep,0.35,30,30-Apr,30,02-Jun,30,21-Jun,SAMMAZ 40 (DTSTR-Y SYN2)
+4,Sahel Savannah,Nill,Nill,Nill,Nill,Nill,Nill,Nill,Nill,Nill,Nill,Nill
+5,Fresh Water swamp,20-Apr,22-Apr,22-Aug,0.35,30,22-Apr,30,13-May,30,02-Jun,SAMMAZ 40 (DTSTR-Y SYN2)
+6,Mangrove,20-Apr,22-Apr,22-Aug,0.35,30,22-Apr,30,13-May,30,02-Jun,SAMMAZ 40 (DTSTR-Y SYN2)
+7,Lake Chad,Nill,Nill,Nill,Nill,Nill,Nill,Nill,Nill,Nill,Nill,Nill
