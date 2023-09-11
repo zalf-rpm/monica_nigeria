@@ -17,7 +17,7 @@
       },
       "residueParams": ["include-from-file", "crops/residues/maize.json"]
     },
-    "Re_calibrated_Bokkos_1": {
+    "Re_calibrated_Bokkos1": {
       "is-winter-crop": true,
       "cropParams": {
         "species": {
@@ -34,7 +34,7 @@
       },
       "residueParams": ["include-from-file", "crops/residues/maize.json"]
     },
-    "Re_calibrated_BokkosMaize_2": {
+    "Re_calibrated_BokkosMaize2": {
       "is-winter-crop": true,
       "cropParams": {
         "species": ["include-from-file", "crops/species/maize.json"],
