@@ -101,6 +101,24 @@
       },
       "residueParams": ["include-from-file", "crops/residues/maize.json"]
     },
+
+    "BokkosMaize_1": {
+      "is-winter-crop": true,
+      "cropParams": {
+        "species": {
+          "=": ["include-from-file", "crops/species/maize.json"],
+          "FieldConditionModifier": 0.95
+        },
+        "cultivar": {
+          "=": ["include-from-file", "crops/cultivars/grain-maize.json"],
+          "CropSpecificMaxRootingDepth": 1.5,
+          "PlantDensity": 8.4,
+          "StageTemperatureSum": [68, 284, 190, 250, 200, 400, 25]
+        }
+      },
+      "residueParams": ["include-from-file", "crops/residues/maize.json"]
+    },
+    
     "VomMaize": {
       "is-winter-crop": true,
       "cropParams": {
